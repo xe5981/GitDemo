@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Broken Links and Images on Friends and Family tab on the webpage</description>
+   <name>Verify Broken Links and Images_Friends and Family Tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6cdc5f79-579e-4ba4-8220-af169ec23f5b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1a461113-f724-4996-b6c8-949684f74f7e</id>
+      <masked>false</masked>
+      <name>tagName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4716c40e-dcca-4e67-993a-be7d8d1c89b9</id>
+      <masked>false</masked>
+      <name>attributeName</name>
+   </variable>
+</TestCaseEntity>

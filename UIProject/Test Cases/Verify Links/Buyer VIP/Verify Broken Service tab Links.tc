@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Broken Links on Service tab on the webpage</description>
+   <name>Verify Broken Service tab Links</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2ecd6dc-37d1-4ff0-9b8a-03dfa718c517</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7a1d2e78-a7f5-4f53-8c7b-8c13203566a2</id>
+      <masked>false</masked>
+      <name>tagName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>362c7f3f-2ba8-43e8-82c1-340b1c4676a6</id>
+      <masked>false</masked>
+      <name>attributeName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Broken Images on My Reviews page</description>
+   <name>Verify Broken Images_My Reviews</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf2d9c60-5deb-426a-91ab-96faf8fd295c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dd7633df-2c54-4f8a-8db3-c784c9e69ee1</id>
+      <masked>false</masked>
+      <name>tagName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07263e0b-be2d-407b-83ea-e7fc8c0a351b</id>
+      <masked>false</masked>
+      <name>attributeName</name>
+   </variable>
+</TestCaseEntity>

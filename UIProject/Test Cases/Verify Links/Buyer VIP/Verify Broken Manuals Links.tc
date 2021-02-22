@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Broken Manual Links on the webpage</description>
+   <name>Verify Broken Manuals Links</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37362ca6-86fe-41d8-af28-1313eeff6b0b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>28474b2e-f1dc-493a-9e3c-315553902b2d</id>
+      <masked>false</masked>
+      <name>tagName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ca757146-253d-4968-ae22-d001a92ed3cc</id>
+      <masked>false</masked>
+      <name>attributeName</name>
+   </variable>
+</TestCaseEntity>

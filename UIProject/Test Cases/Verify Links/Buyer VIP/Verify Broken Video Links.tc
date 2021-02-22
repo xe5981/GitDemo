@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Broken Video Links on the webpage</description>
+   <name>Verify Broken Video Links</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f158d28-1589-482c-8499-3cd7b05f4307</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fcebfd42-1a66-485b-a148-1cd2a38c87a1</id>
+      <masked>false</masked>
+      <name>tagName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8c03647d-da20-4c09-bdfb-c1fea1bb078f</id>
+      <masked>false</masked>
+      <name>attributeName</name>
+   </variable>
+</TestCaseEntity>

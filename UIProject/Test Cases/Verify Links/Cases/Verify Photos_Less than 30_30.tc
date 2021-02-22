@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Photos less than 30 or equal to 30</description>
+   <name>Verify Photos_Less than 30_30</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d226066a-1e64-4351-93d2-245134cee979</testCaseGuid>
+</TestCaseEntity>

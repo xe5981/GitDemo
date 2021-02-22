@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Broken Links and Images on Inventory Page</description>
+   <name>Verify Broken Links and Images_Inventory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14b58f64-6d9c-45b9-9876-f01d0086428c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6b5b1ad0-829d-46b8-835a-5693c635abd3</id>
+      <masked>false</masked>
+      <name>tagName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2087111f-1f8a-489a-a4be-1b8a7ead4086</id>
+      <masked>false</masked>
+      <name>attributeName</name>
+   </variable>
+</TestCaseEntity>

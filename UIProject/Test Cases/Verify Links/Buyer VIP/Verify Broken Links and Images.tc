@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Broken Links and Images on the webpage</description>
+   <name>Verify Broken Links and Images</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>116fd0eb-4f07-4f23-ac62-25a07d961d98</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ee22a333-aa8d-4afe-95a8-12f4c54bd30f</id>
+      <masked>false</masked>
+      <name>tagName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1ad6d234-942c-4d49-a4b3-93be884d0eba</id>
+      <masked>false</masked>
+      <name>attributeName</name>
+   </variable>
+</TestCaseEntity>

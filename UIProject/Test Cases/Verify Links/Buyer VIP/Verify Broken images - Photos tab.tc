@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Broken Links and Images for the Photos Tab on the webpage</description>
+   <name>Verify Broken images - Photos tab</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb831538-8695-4eea-82a7-9966c2d27aaf</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1b34762f-177c-49ac-b7b1-b4e4c6582265</id>
+      <masked>false</masked>
+      <name>tagName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9093ca4b-fc14-4aa3-a083-f43c88501edc</id>
+      <masked>false</masked>
+      <name>attributeName</name>
+   </variable>
+</TestCaseEntity>

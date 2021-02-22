@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Broken Links on My Reviews page</description>
+   <name>Verify Broken Links_My Reviews</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9962cfaf-d737-4a6a-ba32-171e6c054349</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>83df99ec-ed58-491e-acb0-d4d33c183615</id>
+      <masked>false</masked>
+      <name>tagName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3df3586d-809a-48e9-82d4-5e6a5053060a</id>
+      <masked>false</masked>
+      <name>attributeName</name>
+   </variable>
+</TestCaseEntity>
