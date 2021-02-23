@@ -18,11 +18,13 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.vinsyt.Misclleanous as misc
 
-CustomKeywords.'com.vinsyt.Misclleanous.clickOnLeftMenuItems'("Sales")
+CustomKeywords.'com.vinsyt.Misclleanous.clickOnLeftMenuItems'('Sales')
 
-WebUI.sendKeys(findTestObject('Object Repository/Sales Page/Vin Number Search'), "1GT49WEYXMF155893")
+WebUI.sendKeys(findTestObject('Object Repository/Sales Page/Vin Number Search'), '1GT49WEYXMF155893')
 
 WebUI.sendKeys(findTestObject('Object Repository/Sales Page/Vin Number Search'), Keys.chord(Keys.ENTER))
 
 WebUI.closeBrowser()
+
+WebUI.back()
 
